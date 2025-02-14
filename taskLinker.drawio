@@ -59,7 +59,7 @@
           <mxGeometry y="54" width="210" height="28" as="geometry" />
         </mxCell>
         <mxCell id="kQoDp-DeA303PuCBQzwz-27" value="Tag" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="215" y="250" width="120" height="54" as="geometry" />
+          <mxGeometry x="290" y="243" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kQoDp-DeA303PuCBQzwz-28" value="+ tag_name: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="kQoDp-DeA303PuCBQzwz-27">
           <mxGeometry y="26" width="120" height="28" as="geometry" />
@@ -120,6 +120,19 @@
         <mxCell id="kQoDp-DeA303PuCBQzwz-59" value="assign" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="607.2698955057092" y="146.9999828410139" as="geometry">
             <mxPoint x="-118" y="-31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQoDp-DeA303PuCBQzwz-60" value="*" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="331" y="98" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQoDp-DeA303PuCBQzwz-61" value="*" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="547.27" y="98" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQoDp-DeA303PuCBQzwz-62" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="640" y="270" as="sourcePoint" />
+            <mxPoint x="720" y="270" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
